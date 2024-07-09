@@ -1,7 +1,18 @@
 <h1 align="left">&lt;Welcome/&gt;</h1>
 <!-- <h1 align="center">Hi 👋, I'm Nidhi a full-time Frontend developer 👨‍💻 🚀</h1>
 <h3 align="center">A Passionate Front End Developer</h3> -->
-<img src="https://readme-typing-svg.herokuapp.com/?&font=Roboto&color=023b95&size=30&lines=Hi+There+👋!+I%27m+Nidhi+Kumari;Welcome+to+my+GitHub+Profile+👩‍💻!;I%27m+a+Software+Engineer+👩‍💻;Intrested+in+Learning+new+skills;Constantly+Pushing+my+Limits+🚀;" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?&font=Roboto&color=023b95&size=30&lines=Hi+There+👋!+I%27m+Nidhi+Kumari;Welcome+to+my+GitHub+Profile+👩‍💻!++++++;I%27m+a+Software+Engineer+👩‍💻++++++;Intrested+in+Learning+new+skills++++++++++;Constantly+Pushing+my+Limits+🚀+++++++++;I+love+creating+seamless+user+++++++;experiences+and+crafting+clean+++++++,;maintainable+code+.+++++++++++;💬+Ask+me+about+Frontend**" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nidhiikumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhiikumari/" height="30" width="40" /></a>
+<a href="https://instagram.com/n_i_d_h_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhi" height="30" width="40" /></a>
+</p>
+<h5>
+- 📫 You can also reach out via email **in.nidhik@gmail.com**
+</h5>
+
 <h2 align='left'>My Skill Set</h2>
 <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
 <img align = 'left'  src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
